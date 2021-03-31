@@ -1,6 +1,6 @@
 # 服务器压力模拟器及指标测量
 # LoadSimulator&Measuring
-
+________
 ## 程序简介| Introduction
 作为《数据中心多元非线性硬件能效模型的研究》项目的重要部分，本程序将对服务器进行负载的模拟及各指标的测量。
 # 
@@ -21,9 +21,9 @@
 # 
 ## 编写人员 | Contributors
 * Yang Yongzhen [yangyongzhenyang][1]
-* Li Pengcheng [Leeklll)][2]
+* Li Pengcheng [Leeklll][2]
 * Zhao Renmin [Fangtang74][3]
-* Zhao Zerui[zzr2867][4]
+* Zhao Zerui [zzr2867][4]
 
 [1]: https://github.com/yangyongzhenyang
 [2]: https://github.com/Leeklll
