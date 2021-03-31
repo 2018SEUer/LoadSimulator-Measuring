@@ -19,13 +19,9 @@
 * cpufrequtils
 * pip3 pyserial
 - - -
-## 运行说明 ｜ Run
+## 运行说明 ｜ Execute
 1. 在待测试主机或服务器上，以超级用户的身份先后运行.py和.py
-==python3 .py==
-==python3 .py==
 2. 在另一台主机上运行cs.py
-==python3 cs.py==
-
 - - -
 ## 编写人员 | Contributors
 * Yang Yongzhen [yangyongzhenyang][1]
