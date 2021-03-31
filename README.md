@@ -21,8 +21,11 @@
 # 
 ## 编写人员 | Contributors
 * Yang Yongzhen [yangyongzhenyang][1]
-* Li Pengcheng(Leeklll)
-* Zhao Renmin(Fangtang74)
-* Zhao Zerui(zzr2867)
+* Li Pengcheng [Leeklll)][2]
+* Zhao Renmin [Fangtang74][3]
+* Zhao Zerui[zzr2867][4]
 
 [1]: https://github.com/yangyongzhenyang
+[2]: https://github.com/Leeklll
+[3]: https://github.com/Fangtang74
+[4]: https://github.com/zzr2867
