@@ -20,7 +20,8 @@
 * pip3 pyserial
 # 
 ## 编写人员 | Contributors
-* Yang Yongzhen([yangyongzhenyang]: https://github.com/yangyongzhenyang "666")
+* Yang Yongzhen
+[yangyongzhenyang]: https://github.com/yangyongzhenyang "666"
 * Li Pengcheng(Leeklll)
 * Zhao Renmin(Fangtang74)
 * Zhao Zerui(zzr2867)
