@@ -10,7 +10,7 @@
 - - -
 ## 运行操作系统 | OS
 * cs.py: Windows10/macOS/Linux
-* .py/.py: Linux(CentOS is preffered)
+* .py/.py: Linux(CentOS is preferred)
 - - -
 ## 环境配置 | Environment Construction
 * Python 3.0
