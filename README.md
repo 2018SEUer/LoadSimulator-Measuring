@@ -6,7 +6,6 @@
 - - -
 ## 程序构成 | Component
 程序包含三个模块，分别为cs.py LoadRunner.py sar.py
-其中
 - - -
 ## 运行操作系统 | OS
 * cs.py: Windows10/macOS/Linux
