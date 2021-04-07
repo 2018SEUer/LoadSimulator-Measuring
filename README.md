@@ -10,7 +10,7 @@
 - - -
 ## 运行操作系统 | OS
 * cs.py: Windows10/macOS/Linux
-* .py/.py: Linux(CentOS is preferred)
+* sar.py/LoadRunner.py: Linux(CentOS is preferred)
 - - -
 ## 环境配置 | Environment Construction
 * Python 3.0
@@ -20,7 +20,7 @@
 * pip3 pyserial
 - - -
 ## 运行说明 ｜ Execute
-1. 在待测试主机或服务器上，以超级用户的身份先后运行.py和.py
+1. 在待测试主机或服务器上，以超级用户的身份先后运行LoadRunner.py和sar.py
 2. 在另一台主机上运行cs.py
 - - -
 ## 编写人员 | Contributors
