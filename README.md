@@ -17,6 +17,8 @@
 * [lookbusy-1.4]
 * cpufrequtils
 * pip3 pyserial
+* iozone
+* iperf3
 - - -
 ## 运行说明 ｜ Execution
 1. 在待测试主机或服务器上，以超级用户的身份先后运行LoadRunner.py和sar.py
