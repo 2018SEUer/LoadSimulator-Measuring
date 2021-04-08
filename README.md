@@ -18,7 +18,7 @@
 * cpufrequtils
 * pip3 pyserial
 - - -
-## 运行说明 ｜ Execute
+## 运行说明 ｜ Execution
 1. 在待测试主机或服务器上，以超级用户的身份先后运行LoadRunner.py和sar.py
 2. 在另一台主机上运行cs.py
 - - -
