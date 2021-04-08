@@ -14,7 +14,7 @@
 ## 环境配置 | Environment Construction
 * Python 3.0
 * sqlite3
-* lookbusy-1.4[lookbusy]
+* [lookbusy-1.4]
 * cpufrequtils
 * pip3 pyserial
 - - -
@@ -32,4 +32,4 @@
 [2]: https://github.com/Leeklll
 [3]: https://github.com/Fangtang74
 [4]: https://github.com/zzr2867
-[lookbusy]:https://github.com/2018SEUer/LoadSimulator-Measuring/blob/main/Environment%20Construction/lookbusy-1.4.tar
+[lookbusy-1.4]:https://github.com/2018SEUer/LoadSimulator-Measuring/blob/main/Environment%20Construction/lookbusy-1.4.tar
