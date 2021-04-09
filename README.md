@@ -5,7 +5,7 @@
 作为《数据中心多元非线性硬件能效模型的研究》项目的重要部分，本程序将对服务器进行负载的模拟及各指标的测量。
 - - -
 ## 程序构成 | Component
-程序包含三个模块，分别为cs.py LoadRunner.py sar.py
+程序包含三个模块，分别为[cs.py] [loadRunner.py] [sar.py]
 - - -
 ## 运行操作系统 | OS
 * cs.py: Windows10/macOS/Linux
@@ -35,3 +35,6 @@
 [3]: https://github.com/Fangtang74
 [4]: https://github.com/zzr2867
 [lookbusy-1.4]:https://github.com/2018SEUer/LoadSimulator-Measuring/blob/main/Environment%20Construction/lookbusy-1.4.tar
+[cs.py]:https://github.com/2018SEUer/LoadSimulator-Measuring/blob/main/Master%20Program/cs.py
+[loadRunner.py]:https://github.com/2018SEUer/LoadSimulator-Measuring/blob/main/Master%20Program/loadRunner.py
+[sar.py]:https://github.com/2018SEUer/LoadSimulator-Measuring/blob/main/Master%20Program/sar.py
