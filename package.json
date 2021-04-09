@@ -1,0 +1,23 @@
+{
+  "name": "loadsimulator_measure",
+  "version": "1.0.0",
+  "description": "The program of project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2018SEUer/LoadSimulator-Measuring.git"
+  },
+  "keywords": [
+    "python",
+    "load"
+  ],
+  "author": "seuer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2018SEUer/LoadSimulator-Measuring/issues"
+  },
+  "homepage": "https://github.com/2018SEUer/LoadSimulator-Measuring#readme"
+}
