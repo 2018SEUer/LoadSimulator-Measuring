@@ -38,4 +38,4 @@
 [cs.py]:https://github.com/2018SEUer/LoadSimulator-Measuring/blob/main/Master%20Program/cs.py
 [loadRunner.py]:https://github.com/2018SEUer/LoadSimulator-Measuring/blob/main/Master%20Program/loadRunner.py
 [sar.py]:https://github.com/2018SEUer/LoadSimulator-Measuring/blob/main/Master%20Program/sar.py
-[Master程序]:https://github.com/2018SEUer/LoadSimulator-Measuring/tree/main/Master%20Program/Master Program/
+[Master程序]:https://github.com/2018SEUer/LoadSimulator-Measuring/tree/main/Master%20Program/Master%20Program/
