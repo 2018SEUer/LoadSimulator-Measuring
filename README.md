@@ -26,12 +26,12 @@
 - - -
 ## 编写人员 | Contributors
 * Yang Yongzhen [yangyongzhenyang][1]
-* Li Pengcheng [Leeklll][2]
+* Li Pengcheng [PecholaL][2]
 * Zhao Renmin [Fangtang74][3]
 * Zhao Zerui [zzr2867][4]
 
 [1]: https://github.com/yangyongzhenyang
-[2]: https://github.com/Leeklll
+[2]: https://github.com/PecholaL
 [3]: https://github.com/Fangtang74
 [4]: https://github.com/zzr2867
 [lookbusy-1.4]:https://github.com/2018SEUer/LoadSimulator-Measuring/blob/main/Environment%20Construction/lookbusy-1.4.tar
